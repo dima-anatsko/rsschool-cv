@@ -3,21 +3,19 @@
 ***
 ## Contacts
 
-* [e-mail](mailto:anatskodr@gmail.com)
+* [E-mail](mailto:anatskodr@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/dima-anatsko/)
 
 ## Summary
 
-I want to develop in the field of web development and benefit people
+I want to develop in the field of web development and benefit people.
 
 ## Skills
 
-#### Technical
-
+### Technical  
 Python, Django, Flask, PostgreSQL, Django REST Framework, Git, GitHub, Docker, Linux, HTML, CSS, Bootstrap, Jinja2, Celery, Redis, SQL, JSON, YAML, XML, CSV, BeautifulSoup, Postman, Flake8, PyCharm.
 
-#### Leadership
-
+### Leadership  
 Team management, planning, control, independence, communication and prompt problem solving.
 
 ## Сode example
@@ -33,20 +31,18 @@ def index(product_id):
         return jsonify(data)
     return jsonify({'error': 'Not found'}), 404
 ```
-##Projects
 
-__CRM system for coffee shops based on Django__
+## Projects
 
+__CRM system for coffee shops based on Django__  
 The online application allows you to keep warehouse, management and financial records. Distribution of roles of Director and bartender. Functions of acceptance of goods, storage of goods in a warehouse, write-off from a warehouse are implemented. Formation of technological maps of cooking. Automatic calculation of the cost of finished products. Calculating the profitability of the cafe.
 Tools & Technologies: Python, Django, PostgreSQL, HTML/CSS, Bootstrap, Jinja2.
 
-__Internet-shop on Django__
-
+__Internet-shop on Django__  
 Online store with sorting and filtering options. Customizable pagination for displaying large amounts of information. With the function of sending emails about promotions and sales. You can choose one of three languages for displaying content.
 Tools & Technologies: Python, Django, PostgreSQL, HTML/CSS, Bootstrap, Celery, Redis, Django REST Framework.
 
-__Parsers__
-
+__Parsers__  
 Parser for searching, collecting and retrieving information from various sites (depending on requirement).
 Tools & Technologies: Python, BeautifulSoup, HTML, XML, CSV.
 
@@ -58,11 +54,11 @@ Python web application development, databases processing, implementation front-e
 
 __Coursera__  
 _Python Developer • September, 2019 — December, 2019_  
-The basics of programming in Python
+The basics of programming in Python.
 
 __Belarusian State University of Informatics and Radioelectronics__  
 _Engineer • September, 2000 — June, 2005_  
-Higher engineering education
+Higher engineering education.
 
 ## English
 
