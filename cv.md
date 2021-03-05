@@ -1,14 +1,18 @@
 ## Dzmitry Anatska
 
-***
-## Contacts
-
 * [E-mail](mailto:anatskodr@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/dima-anatsko/)
 
 ## Summary
 
 I want to develop in the field of web development and benefit people.
+* using of Python for more than 1 year
+* developing of web applications on the Django’s/Flask framework
+* using the system of version control, like (Git)
+* understanding and using the principles of the OOP
+* knowledge of Linux-based systems
+* have worekd with HTML/CSS/JS/Bootstrap
+* have an experience with SQL, Postgresql
 
 ## Skills
 
