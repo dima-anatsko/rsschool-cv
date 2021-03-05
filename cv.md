@@ -5,17 +5,22 @@
 
 * [e-mail](mailto:anatskodr@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/dima-anatsko/)
-##Summary
+
+## Summary
 
 I want to develop in the field of web development and benefit people
-##Skills
 
-####Technical
+## Skills
+
+#### Technical
+
 Python, Django, Flask, PostgreSQL, Django REST Framework, Git, GitHub, Docker, Linux, HTML, CSS, Bootstrap, Jinja2, Celery, Redis, SQL, JSON, YAML, XML, CSV, BeautifulSoup, Postman, Flake8, PyCharm.
 
-####Leadership
+#### Leadership
+
 Team management, planning, control, independence, communication and prompt problem solving.
-##Сode example
+
+## Сode example
 
 ```python
 @app.route('/marakas/api/v1.0/products/<int:product_id>', methods=['GET'])
@@ -44,19 +49,22 @@ __Parsers__
 
 Parser for searching, collecting and retrieving information from various sites (depending on requirement).
 Tools & Technologies: Python, BeautifulSoup, HTML, XML, CSV.
-##Education
 
-__Coding School TeachMeSkills__
-_Python Developer • December, 2019 — June, 2020_
+## Education
+
+__Coding School TeachMeSkills__  
+_Python Developer • December, 2019 — June, 2020_  
 Python web application development, databases processing, implementation front-end using template Django, test coverage, functional programming, OOP.
 
-__Coursera__
-_Python Developer • September, 2019 — December, 2019_
+__Coursera__  
+_Python Developer • September, 2019 — December, 2019_  
 The basics of programming in Python
 
-__Belarusian State University of Informatics and Radioelectronics__
-_Engineer • September, 2000 — June, 2005_
+__Belarusian State University of Informatics and Radioelectronics__  
+_Engineer • September, 2000 — June, 2005_  
 Higher engineering education
-##English
 
-At the time of writing the resume - pre-intermediate. But I am constantly working on improving my English
+## English
+
+At the time of writing the resume - pre-intermediate. But I am constantly working on improving my English.
+
