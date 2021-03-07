@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Georgia, serif;
+  font-size: 14pt;
+}
+
+figure {
+  text-align: center;
+}
+
+.wrapper {
+  max-width: 992px;
+  margin: auto;
+}
+
+.photo {
+  width: 180px;
+}
+
+h3 {
+  margin: 10px 0px;
+}
+
+header h3 {
+  text-align: center;
+  color: #374252;
+}
+
+ul {
+  margin-left: 18px;
+  margin-bottom: 10px;
+}
+
+.skills li {
+  margin-bottom: 10px;
+}
+
+.bold {
+  font-weight: 800;
+}
+
+.cursive {
+  font-style: italic;
+}
+
+.bottom10 {
+  margin-bottom: 10px;
+}
